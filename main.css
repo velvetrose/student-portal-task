@@ -1,5 +1,6 @@
-@import url(./variables.css);
-@import url(./custom.css);
+/* Importing Other CSS Files */
+@import url(variables.css);
+@import url(custom.css);
 
 * {
   box-sizing: border-box;
