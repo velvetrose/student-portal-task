@@ -26,7 +26,7 @@ $(document).ready(function () {
       $(".error-message").text("Invalid username or password.").show();
     } else {
       // Redirect to home page if valid
-      window.location.href = "/home.html";
+      window.location.href = "~/home.html";
     }
   });
 
