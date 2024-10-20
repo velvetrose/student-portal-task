@@ -1,9 +1,0 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
-:root {
-  --body-bg: rgb(17, 17, 17);
-  --text-color-light: #f7ecec;
-  --font-family: "Inter", sans-serif;
-  --surface-color: #e7e7e7;
-  --surface-light:white;
-  --surface-text:rgb(22, 22, 22);
-}

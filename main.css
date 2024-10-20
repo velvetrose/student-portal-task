@@ -1,5 +1,5 @@
-@import url(./_variables.css);
-@import url(./_custom.css);
+@import url(./variables.css);
+@import url(./custom.css);
 
 * {
   box-sizing: border-box;
